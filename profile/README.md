@@ -18,4 +18,4 @@ With this approach we aim not to waste any valuable information, so that we can 
 With the AMiCI - Platform you may easily implement a CI, administer quizzes, analyze and/or validate the results in just a few clicks.
 
 ### Contact
-To participate in this project, please, fill in the contact form you find at [http//:andrea.adamoli.ch](http//:andrea.adamoli.ch)
+To participate in this project, please, fill out the contact form you find on [http//:andrea.adamoli.ch](http//:andrea.adamoli.ch)
