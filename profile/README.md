@@ -22,4 +22,4 @@ To participate in this project, please, fill out the contact form you find on [h
 
 ### Screenshots
 
-<img src="./quizSession.png" height="200px"> &nbsp; <img src="./misconceptionView.png" height="200px"> &nbsp; <img src="./studentprofile.png" height="200px">
+<img src="./profile/quizSession.png?raw=true" height="200px"> &nbsp; <img src="./profile/misconceptionView.png?raw=true" height="200px"> &nbsp; <img src="./profile/studentprofile.png?raw=true" height="200px">
