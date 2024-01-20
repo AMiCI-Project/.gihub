@@ -19,3 +19,7 @@ With the AMiCI - Platform you may easily implement a CI, administer quizzes, ana
 
 ### Contact
 To participate in this project, please, fill out the contact form you find on [http//:andrea.adamoli.ch](http//:andrea.adamoli.ch)
+
+### Screenshots
+
+<img src="./quizSession.png" height="200px"> &nbsp; <img src="./misconceptionView.png" height="200px"> &nbsp; <img src="./studentprofile.png" height="200px">
