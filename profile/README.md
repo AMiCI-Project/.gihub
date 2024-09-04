@@ -5,7 +5,7 @@
 
 The AMiCI Project consists of several (private) repositories:
 - AMiCI: A collection of multiple-choice questions (a [Concept Inventory](https://en.wikipedia.org/wiki/Concept_inventory), *CI*), created with the support of the AMiCI methodology, to early identify programming language (*PL*) misconceptions students develop when learning to program.
-- AMiCI Platform: A web application developed in Java (with the [Vaadin Framework](https://vaadin.com/)) that supports the administration, validation, and results analysis of AMi-CIs.
+- AMiCI Platform: A web application developed in Java (with the [Vaadin Framework](https://vaadin.com/)) that supports the administration, validation, sharing, and results analysis of AMi-CIs.
 - AMiCI-Platform-Utils: utilities to support the conversion of formats within the AMiCI-Platform
 
 ### Purpose
