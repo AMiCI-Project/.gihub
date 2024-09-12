@@ -23,7 +23,7 @@ To participate in this project, please, fill out the contact form you find on [h
 ### Screenshots
 
 <center>
-<img src="./quizSession.png?raw=true" height="200px"> <br/>
+<img src="./quizSession.png?raw=true" height="200px"> <br>
 <p style="font-size:8pt">Quiz session in AMiCI</p>
 <br/><br/>
 
