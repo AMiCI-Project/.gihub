@@ -17,6 +17,9 @@ With this approach we aim not to waste any valuable information and **efficientl
 **A**gile **Mi**sconception **C**oncept **I**nventories proved to be a **fast**, **accurate** and very useful tool in programming courses for both: instructors and students. <br>
 With the AMiCI - Platform you may easily implement a CI, administer quizzes, analyze and/or validate the results in just a few clicks.
 
+### Notes
+Recent Node.js updates have introduced incompatibilities with building the Webpack component. A quick workaround is to downgrade Node.js, e.g., to version 16.15.1 (or any version below 17).
+
 ### Contact
 To participate in this project, please, fill out the contact form you find on [http://andrea.adamoli.ch](http://andrea.adamoli.ch)
 
