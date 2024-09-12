@@ -23,16 +23,16 @@ To participate in this project, please, fill out the contact form you find on [h
 ### Screenshots
 
 <center>
-<img src="./quizSession.png?raw=true" height="200px"> <br>
+<img src="./quizSession.png?raw=true" height="200px">
 <p style="font-size:8pt">Quiz session in AMiCI</p>
 <br/><br/>
 
-<img src="./misconceptionView.png?raw=true" height="200px"> <br>
-<p style="font-size:8pt">List of misconceptions tested in the current CI</p>
+<img src="./misconceptionView.png?raw=true" height="200px">
+<p style="font-size:8pt">List of misconceptions tested in the considered CI (extract)</p>
 <br/><br/>
 
-<img src="./questionDetails.png?raw=true" height="200px"> <br/>
-<p style="font-size:8pt">Validation details for the options of a question</p>
+<img src="./questionDetails.png?raw=true" height="200px">
+<p style="font-size:8pt">Validation details for an options of a question</p>
 <br/><br/>
 
 <img src="./studentprofile.png?raw=true" height="200px">
